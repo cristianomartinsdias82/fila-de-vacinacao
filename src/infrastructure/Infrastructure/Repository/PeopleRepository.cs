@@ -16,10 +16,6 @@ namespace Infrastructure.Repository
             _peopleData = peopleData;
         }
 
-        //TODO: Erase this lines of codes
-        //public async Task<IEnumerable<Person>> GetPeopleAsync(CancellationToken cancellationToken = default)
-        //    => await new ValueTask<IEnumerable<Person>>(JsonSerializer.Deserialize<IEnumerable<Person>>(_peopleData.JsonData));
-
         public async Task<PersonCollection> GetPeopleAsync(CancellationToken cancellationToken = default)
             => await new ValueTask<PersonCollection>(JsonSerializer.Deserialize<PersonCollection>(_peopleData.JsonData));
     }
