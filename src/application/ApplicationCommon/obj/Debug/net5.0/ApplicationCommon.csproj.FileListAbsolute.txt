@@ -1,0 +1,12 @@
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\bin\Debug\net5.0\ApplicationCommon.deps.json
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\bin\Debug\net5.0\ApplicationCommon.dll
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\bin\Debug\net5.0\ApplicationCommon.pdb
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\obj\Debug\net5.0\ApplicationCommon.csproj.AssemblyReference.cache
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\obj\Debug\net5.0\ApplicationCommon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\obj\Debug\net5.0\ApplicationCommon.AssemblyInfoInputs.cache
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\obj\Debug\net5.0\ApplicationCommon.AssemblyInfo.cs
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\obj\Debug\net5.0\ApplicationCommon.csproj.CoreCompileInputs.cache
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\obj\Debug\net5.0\ApplicationCommon.dll
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\obj\Debug\net5.0\refint\ApplicationCommon.dll
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\obj\Debug\net5.0\ApplicationCommon.pdb
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\application\ApplicationCommon\obj\Debug\net5.0\ref\ApplicationCommon.dll

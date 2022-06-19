@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\Application.Queries\\Application.Queries.csproj": {}
+  },
+  "projects": {
+    "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\Application.Queries\\Application.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\Application.Queries\\Application.Queries.csproj",
+        "projectName": "Application.Queries",
+        "projectPath": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\Application.Queries\\Application.Queries.csproj",
+        "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
+        "outputPath": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\Application.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Codebase\\Work\\DTM\\nuget-packages-sandboxed-env": {},
+          "http://ibopedtm.com/nugetserver/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\ApplicationCommon\\ApplicationCommon.csproj": {
+                "projectPath": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\ApplicationCommon\\ApplicationCommon.csproj"
+              },
+              "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\domain\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\domain\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\ApplicationCommon\\ApplicationCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\ApplicationCommon\\ApplicationCommon.csproj",
+        "projectName": "ApplicationCommon",
+        "projectPath": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\ApplicationCommon\\ApplicationCommon.csproj",
+        "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
+        "outputPath": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\application\\ApplicationCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Codebase\\Work\\DTM\\nuget-packages-sandboxed-env": {},
+          "http://ibopedtm.com/nugetserver/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\domain\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\domain\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\domain\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
+        "outputPath": "E:\\Codebase\\_.NET Solutions\\Core\\5.x\\FilaVacinacao\\src\\domain\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Codebase\\Work\\DTM\\nuget-packages-sandboxed-env": {},
+          "http://ibopedtm.com/nugetserver/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

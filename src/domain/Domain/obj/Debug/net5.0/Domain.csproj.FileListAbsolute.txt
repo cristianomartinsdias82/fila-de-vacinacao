@@ -1,0 +1,12 @@
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\bin\Debug\net5.0\Domain.dll
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\obj\Debug\net5.0\Domain.dll
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\obj\Debug\net5.0\refint\Domain.dll
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\obj\Debug\net5.0\Domain.pdb
+E:\Codebase\_.NET Solutions\Core\5.x\FilaVacinacao\src\domain\Domain\obj\Debug\net5.0\ref\Domain.dll
